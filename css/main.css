@@ -1,5 +1,6 @@
 body {
-  width: 100vw; }
+  width: 100vw;
+  overflow-x: hidden; }
 
 header {
   display: grid;
